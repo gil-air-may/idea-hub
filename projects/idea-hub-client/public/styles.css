@@ -1,0 +1,10 @@
+#container {
+  z-index: 1;
+}
+
+canvas {
+  position: absolute;
+  z-index: -1;
+  max-width: 100%;
+}
+
